@@ -14,6 +14,7 @@ There are a few prerequisites required to replicate the attack chain above:
 * A GIF of your choice 
 * A public facing IP which can be used as a listener for incoming web requests
 
+
 **<span style="text-decoration:underline;">Steps:</span>**
 
 1) Open the Python script, and edit instances of the `token` variable with the `skypetoken_asm` cookie value from your authenticated browser session running Microsoft Teams as the attacker
